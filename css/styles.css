@@ -1,0 +1,35 @@
+header.masthead {
+    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/bg-masthead.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+
+  .page-section{
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+  }
+
+  hr.divider {
+    height: 0.2rem;
+    max-width: 3.25rem;
+    margin: 1.5rem auto;
+    opacity: 1;
+  }
+
+  .my-icon{
+    font-size: 40px;
+  }
+
+  .flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+
+  }
+
+  .navbar{
+    font-weight: bold;
+
+  }
